@@ -1,0 +1,28 @@
+name: Digital MRKTG
+favicon: null
+layout_spectrum: 0.9691472158301622
+typography_spectrum: 0.9240398174151778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4642255064100027
+  lightness: 0.10727974656037986
+  saturation: 0.19296927261166275
+  rhythmicContrast: 0.14602921158075333
+purpose: []
